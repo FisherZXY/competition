@@ -6,4 +6,5 @@
 部分结果截图如下：                   
 ![](https://i.imgur.com/afLZrMQ.png)
 
+试一试commit
 另外可以关注我的另外项目https://github.com/searchlink/Bert-Chinese-Task-Pytorch， 基于预训练数据来处理中文任务，谢谢！
